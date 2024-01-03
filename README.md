@@ -1,8 +1,7 @@
 # **Youtube Views Prediction**
 #### Author : Althaaf Athaayaa Daffa Qushayyizidane
 
-![HI](https://img.freepik.com/free-photo/pile-3d-play-button-logos_1379-880.jpg?w=1060&t=st=1704206717~exp=1704207317~hmac=806282a90fd0d61afa396360a847ab7f3f3f480b9ded95d34ab0762f7d9d18d6)
-
+![HI](PICT/0.jpg)
 
 ## **About Dataset**
 
